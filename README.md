@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👨‍💻 Electrical Engineering Student | Code Enthusiast
+
+Hello there! I'm Joe Li, an Electrical Engineering student at the University of British Columbia (UBC) with a passion for coding and technology-driven innovation. I have a diverse background that encompasses both formal education and hands-on experience in various coding languages and domains.
+
+Let's connect and collaborate! Whether you're interested in coding projects, educational resources, or simply exploring the world of Electrical Engineering and technology, my GitHub is a space where I share my coding journey and insights.
 
 <!--
 **skipfie/skipfie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
